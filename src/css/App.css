@@ -1,0 +1,24 @@
+.title-post{
+    text-align: center;
+}
+.post{
+    background-color: white;
+    border-radius: 5px;
+    color: #1a1a1a;
+    margin-bottom: 20px;
+    padding: 5px;
+    width: 700px;
+}
+.post__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.post__container{
+    margin-top: -20px;
+}

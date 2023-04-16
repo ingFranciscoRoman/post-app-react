@@ -1,0 +1,18 @@
+.detalles{
+    width: 700px;
+}
+.details__title{
+    font-size: 30px;
+    text-align: center;
+}
+.details__body .comentario__body{
+    text-align: justify;
+}
+.comentarios{
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.comentarios__name{
+    text-align: right;
+    margin-top: -10px;
+}
